@@ -1,12 +1,5 @@
-### Descrição curta para repositório do GitHub
 
-**Shopee Gamer** é um projeto de estudo da plataforma EBAC. Trata-se de uma loja virtual dedicada a jogos e consoles, construída com HTML e CSS, destacando marcas como Nintendo, Playstation e Xbox.
-
----
-
-### README.md
-
-# 🕹️ Shopee Gamer
+### 🕹️ Shopee Gamer
 
 **Shopee Gamer** é um projeto desenvolvido como parte de um estudo na plataforma EBAC. Trata-se de uma loja virtual dedicada a jogos e consoles, criada utilizando HTML e CSS, destacando marcas renomadas como Nintendo, Playstation e Xbox.
 
